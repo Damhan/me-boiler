@@ -1,5 +1,5 @@
-# mesmo
-MERN stack application that manages basic office administration for small companies.
+# mean / mern boiler
+MERN stack application boiler
 
 # Install
 
